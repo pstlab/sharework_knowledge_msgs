@@ -1,0 +1,6 @@
+string queryType
+string[] queryParams
+---
+string result
+string explanation
+sharework_knowledge_msgs/KnowledgeRDFResource[] resources
