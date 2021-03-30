@@ -1,0 +1,5 @@
+string updateType
+string[] data
+---
+sharework_knowledge_msgs/KnowledgeRDFTriple[] result
+
